@@ -21,7 +21,6 @@ function App() {
       <li>
         <Link className='list' to="service">Service</Link>
       </li>
-    <h3>hello</h3>
     </ul>
    </nav>
     </div>
